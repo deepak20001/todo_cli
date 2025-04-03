@@ -1,4 +1,4 @@
-```md
+```md 
 📝 Todo CLI
 
 A simple and efficient command-line todo list manager built with **Go**.
